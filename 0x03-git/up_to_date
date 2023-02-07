@@ -1,0 +1,4 @@
+/*command to merge changes made in git hub but not in local repo is */ 
+
+
+ git pull
